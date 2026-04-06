@@ -1,2 +1,2 @@
-# dns-server-cpp
-Basic DNS server in C++
+# DNS Server
+Basic DNS server implementation in C++
